@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+transformers
+datasets
+accelerate
+evaluate
+fastapi
+uvicorn
+streamlit
+onnx
+onnxruntime
+optimum
+python-multipart
